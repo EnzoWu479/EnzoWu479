@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando JavaScript e React
 - 📫 Contate-me no email: enwu2014@hotmail.com
-- ⚡ Futuro Programador Front-end
+- ⚡ Programador Front-end
 
 <div align="center">
   <a href="https://github.com/EnzoWu479">
