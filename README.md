@@ -1,6 +1,6 @@
 ### Oi, eu sou o Enzo Wu
 
-- 🌱 Estou estudando JavaScript e React
+- 🌱 Estou trabalhando com Typescript, React.js e Next.js
 - 📫 Contate-me no email: enwu2014@hotmail.com
 - ⚡ Programador Front-end
 
