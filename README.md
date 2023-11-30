@@ -2,7 +2,7 @@
 
 - 🌱 Estou trabalhando com Typescript, React.js e Next.js
 - 📫 Contate-me no email: enwu2014@hotmail.com
-- ⚡ Programador Front-end
+- ⚡ Programador Full-stack
 
 <div align="center">
   <a href="https://github.com/EnzoWu479">
